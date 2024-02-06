@@ -1,0 +1,7 @@
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\MvcMovie.exe
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\MvcMovie.dll
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\MvcMovie.deps.json
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\MvcMovie.runtimeconfig.json
+C:\Users\Ankeeta_Gupta\source\repos\MvcMovie\MvcMovie\obj\Release\net8.0\PubTmp\Out\MvcMovie.pdb
